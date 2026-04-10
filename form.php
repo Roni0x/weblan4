@@ -2,7 +2,6 @@
 <html lang="ru">
 <head>
     <meta charset="UTF-8">
-    <title>Анкета - Задания 3 и 4</title>
     <!-- Подключаем внешний файл со стилями CSS -->
     <link rel="stylesheet" href="style.css">
 </head>
